@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/NaitronOhm/Desktop/testing/plugins/SuperSell.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/SuperSell/SuperSell.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/SuperSell/SuperSell.jardesc"/>
+        <file path="/SuperSell/README.md"/>
+        <file path="/SuperSell/.project"/>
+        <file path="/SuperSell/plugin.yml"/>
+        <folder path="/SuperSell/config"/>
+        <folder path="/SuperSell/target"/>
+        <file path="/SuperSell/pom.xml"/>
+        <file path="/SuperSell/lang.json"/>
+        <javaElement handleIdentifier="=SuperSell/src"/>
+        <file path="/SuperSell/LICENSE.txt"/>
+        <file path="/SuperSell/.classpath"/>
+        <file path="/SuperSell/config.yml"/>
+    </selectedElements>
+</jardesc>

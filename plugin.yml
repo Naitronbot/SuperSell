@@ -1,0 +1,16 @@
+name: SuperSell
+author: Naitronbomb
+version: 1.0
+main: net.nathanlackie.Main.Main
+api-version: 1.16
+depend: [Vault]
+commands:
+  sellitems:
+      description: Opens the sell items menu
+      usage: /sellitems [player]
+      permission: SuperSell.sellitems
+      aliases: [ss]
+  supersell:
+      description: Main plugin command
+      usage: /SuperSell [args]
+      permission: SuperSell.maincommand
