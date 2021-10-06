@@ -18,6 +18,6 @@ Made for bukkit 1.16
 Menus created with the minecraft [canvas](https://github.com/IPVP-MC/canvas) library.
 
 ## Compiling
-SuperSell is compiled using Maven. Simply run
+SuperSell is compiled using Maven. Simply run the command
 `mvn clean package install`
-in the project folder, and the usable jar file will be generated in the `target` folder.
+in the project folder, and the usable jar file will be generated in the `target` folder as `SuperSell-0.0.1-SNAPSHOT.jar`.
