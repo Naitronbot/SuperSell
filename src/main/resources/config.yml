@@ -1,0 +1,389 @@
+Items:
+  GOLD_INGOT:
+    worth: 10
+    max: 32
+    weight: 6
+  DIAMOND:
+    worth: 30
+    max: 16
+    weight: 5
+  NETHERITE_SCRAP:
+    worth: 100
+    max: 5
+    weight: 2
+  ENDER_PEARL:
+    worth: 10
+    max: 16
+    weight: 4
+  LAPIS_BLOCK:
+    worth: 10
+    max: 32
+    weight: 6
+  REDSTONE_BLOCK:
+    worth: 10
+    max: 32
+    weight: 6
+  #SPONGE:
+  #  worth: 50
+  #  max: 8
+  #  weight: 3
+  QUARTZ:
+    worth: 2
+    max: 64
+    weight: 6
+  WITHER_SKELETON_SKULL:
+    worth: 100
+    max: 2
+    weight: 1
+  PHANTOM_MEMBRANE:
+    worth: 10
+    max: 8
+    weight: 5
+  OAK_LOG:
+    worth: 1
+    max: 64
+    weight: 4
+  SPRUCE_LOG:
+    worth: 1
+    max: 64
+    weight: 4
+  BIRCH_LOG:
+    worth: 1
+    max: 64
+    weight: 4
+  JUNGLE_LOG:
+    worth: 1
+    max: 64
+    weight: 4
+  ACACIA_LOG:
+    worth: 1
+    max: 64
+    weight: 4
+  DARK_OAK_LOG:
+    worth: 1
+    max: 64
+    weight: 4
+  PURPUR_BLOCK:
+    worth: 15
+    max: 32
+    weight: 1
+  SLIME_BALL:
+    worth: 20
+    max: 16
+    weight: 2
+  GREEN_DYE:
+    worth: 3
+    max: 64
+    weight: 8
+  SEA_PICKLE:
+    worth: 8
+    max: 32
+    weight: 4
+  SUGAR:
+    worth: 2
+    max: 128
+    weight: 7
+  FERMENTED_SPIDER_EYE:
+    worth: 6
+    max: 32
+    weight: 6
+  PACKED_ICE:
+    worth: 4
+    max: 32
+    weight: 4
+  RED_MUSHROOM:
+    worth: 2
+    max: 64
+    weight: 8
+  BROWN_MUSHROOM:
+    worth: 2
+    max: 64
+    weight: 8
+  MELON:
+    worth: 2
+    max: 64
+    weight: 6
+  SWEET_BERRIES:
+    worth: 1
+    max: 64
+    weight: 6
+  COCOA_BEANS:
+    worth: 2
+    max: 64
+    weight: 5
+  PUMPKIN:
+    worth: 1
+    max: 64
+    weight: 6
+  WHEAT:
+    worth: 1
+    max: 64
+    weight: 8
+  POTATO:
+    worth: 1
+    max: 64
+    weight: 8
+  CARROT:
+    worth: 1
+    max: 64
+    weight: 8
+  BEETROOT:
+    worth: 1
+    max: 64
+    weight: 8
+  NETHER_WART:
+    worth: 4
+    max: 32
+    weight: 5
+  APPLE:
+    worth: 5
+    max: 8
+    weight: 6
+  CHORUS_FRUIT:
+    worth: 10
+    max: 32
+    weight: 2
+  SHROOMLIGHT:
+    worth: 8
+    max: 16
+    weight: 3
+  LEATHER:
+    worth: 4
+    max: 32
+    weight: 8
+  STRING:
+    worth: 5
+    max: 32
+    weight: 6
+  FEATHER:
+    worth: 3
+    max: 32
+    weight: 8
+  WHITE_WOOL:
+    worth: 6
+    max: 16
+    weight: 8
+  BONE:
+    worth: 4
+    max: 32
+    weight: 6
+  INK_SAC:
+    worth: 12
+    max: 16
+    weight: 4
+  ROTTEN_FLESH:
+    worth: 2
+    max: 64
+    weight: 6
+  IRON_INGOT:
+    worth: 5
+    max: 32
+    weight: 6
+  COPPER_INGOT:
+    worth: 2
+    max: 64
+    weight: 6
+  AMETHYST_SHARD:
+    worth: 20
+    max: 16
+    weight: 3
+  BLAZE_ROD:
+    worth: 20
+    max: 16
+    weight: 3
+  GUNPOWDER:
+    worth: 4
+    max: 32
+    weight: 6
+  GHAST_TEAR:
+    worth: 200
+    max: 1
+    weight: 2
+  GLOWSTONE:
+    worth: 10
+    max: 32
+    weight: 4
+  COAL:
+    worth: 2
+    max: 32
+    weight: 8
+  CLAY:
+    worth: 4
+    max: 64
+    weight: 5
+  OBSIDIAN:
+    worth: 10
+    max: 16
+    weight: 5
+  GOLDEN_APPLE:
+    worth: 115
+    max: 3
+    weight: 2
+  SUSPICIOUS_STEW:
+    worth: 5
+    max: 8
+    weight: 3
+  POTION:
+    worth: 60
+    max: 6
+    weight: 2
+  SPLASH_POTION:
+    worth: 150
+    max: 3
+    weight: 1
+  LINGERING_POTION:
+    worth: 500
+    max: 1
+    weight: 1
+  TRIDENT:
+    worth: 250
+    max: 1
+    weight: 2
+  LEATHER_HORSE_ARMOR:
+    worth: 80
+    max: 1
+    weight: 6
+  IRON_HORSE_ARMOR:
+    worth: 200
+    max: 1
+    weight: 3
+  GOLDEN_HORSE_ARMOR:
+    worth: 320
+    max: 1
+    weight: 2
+  DIAMOND_HORSE_ARMOR:
+    worth: 500
+    max: 1
+    weight: 1
+  GOLDEN_CARROT:
+    worth: 15
+    max: 16
+    weight: 3
+  PUFFERFISH_BUCKET:
+    worth: 330
+    max: 1
+    weight: 2
+  POISONOUS_POTATO:
+    worth: 10
+    max: 16
+    weight: 4
+  HONEY_BOTTLE:
+    worth: 20
+    max: 10
+    weight: 2
+  PUFFERFISH:
+    worth: 315
+    max: 1
+    weight: 2
+  CHAINMAIL_HELMET:
+    worth: 330
+    max: 1
+    weight: 1
+  CHAINMAIL_CHESTPLATE:
+    worth: 440
+    max: 1
+    weight: 1
+  CHAINMAIL_LEGGINGS:
+    worth: 360
+    max: 1
+    weight: 1
+  CHAINMAIL_BOOTS:
+    worth: 230
+    max: 1
+    weight: 1
+  TIPPED_ARROW:
+    worth: 24
+    max: 16
+    weight: 1
+  SPECTRAL_ARROW:
+    worth: 12
+    max: 16
+    weight: 3
+  GLASS_BOTTLE:
+    worth: 4
+    max: 32
+    weight: 5
+  FIRE_CHARGE:
+    worth: 16
+    max: 16
+    weight: 3
+  HONEYCOMB:
+    worth: 20
+    max: 16
+    weight: 2
+  SCUTE:
+    worth: 30
+    max: 8
+    weight: 3
+  RABBIT_FOOT:
+    worth: 77
+    max: 3
+    weight: 4
+  BLACK_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  BLUE_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  BROWN_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  CYAN_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  GRAY_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  GREEN_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  LIGHT_BLUE_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  LIGHT_GRAY_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  LIME_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  MAGENTA_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  ORANGE_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  PINK_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  PURPLE_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  RED_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  WHITE_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  YELLOW_TERRACOTTA:
+    worth: 5
+    max: 64
+    weight: 1
+  TERRACOTTA:
+    worth: 2
+    max: 64
+    weight: 1
