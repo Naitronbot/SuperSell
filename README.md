@@ -6,12 +6,12 @@ Made for [PaperMc](https://papermc.io/)
 ## Commands
 * **User**
     * **/sellitems** Opens the sellitems menu
-	* **/sellitems <player>** Views another player's sellitems menu
+	* **/sellitems \<player\>** Views another player's sellitems menu
     * **/ss** Alias to /sellitems
 * **Admin**
     * **/supersell** Main admin command
     * **/supersell reset** Refreshes sellitems menu for all players
-    * **/supersell reset <player>** Refreshes sellitems menu for a specific player
+    * **/supersell reset \<player\>** Refreshes sellitems menu for a specific player
     * **/supersell reload** Reloads the itemlist in the config
 
 ## Dependancies
