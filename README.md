@@ -14,6 +14,9 @@ Made for bukkit 1.16
     * **/supersell reset <player>** Refreshes sellitems menu for a specific player
     * **/supersell reload** Reloads the itemlist in the config
 
+## Dependancies
+Requires [Vault](https://www.spigotmc.org/resources/vault.34315/) and an economy plugin (such as [EssentialsX](https://essentialsx.net/downloads.html)). Install these in your server's plugin directory. These are needed at runtime, and are not needed for compiling SuperSell.
+
 ## Libraries Used
 Menus created with the minecraft [canvas](https://github.com/IPVP-MC/canvas) library.
 
